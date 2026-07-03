@@ -1,4 +1,4 @@
-# 🌟 Personal Portfolio Website
+# 🌟 Vamshika Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my education, skills, internships, certifications, job simulations, and projects.
 
